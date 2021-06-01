@@ -1,6 +1,6 @@
-# Flask API and Database with Python Workshop
+# Flask API and Databases with Python Workshop
 Hosted by Amine M. Boulouma, contact and questions: [amine.boulouma.com](https://amine.boulouma.com)
-- [Learn FLASK API with Python](https://github.com/amboulouma/flask-api-workshop)
+- [Learn Flask API and Databases with Python](https://www.youtube.com/watch?v=IrWAHTEtqgg&ab_channel=AmineM.Boulouma)
 - [Source code](https://github.com/amboulouma/flask-api-workshop)
 
 ## Install flask
